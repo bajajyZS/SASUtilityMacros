@@ -1,5 +1,5 @@
 
-/*column sorter*/
+/*column sorter*/ /*by sm15491*/
 
 %macro colsort (lib		/*SAS Library where table is stored*/,
 				tab		/*Table name*/,
